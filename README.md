@@ -1,2 +1,2 @@
 # calculadora_aula
-criri na aula de programação
+projeto criado na aula de programação
